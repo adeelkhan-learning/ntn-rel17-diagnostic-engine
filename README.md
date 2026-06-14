@@ -1,5 +1,7 @@
 # 3GPP Rel-17 LEO NTN Diagnostic Engine
 
+[![Open in Streamlit](https://img.shields.io/badge/Open%20in-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ntn-rel17-diagnostic-engine.streamlit.app/)
+
 ## Overview
 This project is an interactive Layer 1/L2 telemetry diagnostic tool designed for Non-Terrestrial Network (NTN) integration. It bridges the gap between Layer 3 RRC broadcast parameters (SIB19) and physical layer performance metrics, allowing RF optimization teams to predict and troubleshoot cell outages in high-speed LEO environments.
 
