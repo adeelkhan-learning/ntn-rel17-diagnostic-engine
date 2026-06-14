@@ -1,0 +1,22 @@
+{
+  "sib19-v1700": {
+    "ntn-Config-r17": {
+      "ephemerisInfo-r17": {
+        "stateVector": {
+          "positionX": 4500000,
+          "positionY": 5000000,
+          "positionZ": 1200000,
+          "velocityVX": 7000,
+          "velocityVY": -1000,
+          "velocityVZ": 2000
+        }
+      },
+      "ta-Info-r17": {
+        "ta-Common-r17": 25.4,
+        "ta-CommonDrift-r17": 0.005
+      },
+      "k-Offset-r17": 40,
+      "t-Service-r17": 120
+    }
+  }
+}
